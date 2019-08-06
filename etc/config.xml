@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+      <product_preview>
+          <general>
+              <enable_module>1</enable_module>
+              <preview_grid>1</preview_grid>
+              <preview_edit>1</preview_edit>
+          </general>
+      </product_preview>
+    </default>
+</config>
